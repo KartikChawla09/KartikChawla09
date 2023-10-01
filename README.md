@@ -22,6 +22,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kartikchawla09&show_icons=true&locale=en&layout=compact" alt="kartikchawla09" /></p>
 
+[![An image of @kartikchawla09's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kartikchawla09)](https://holopin.io/@kartikchawla09)
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kartikchawla09&show_icons=true&locale=en" alt="kartikchawla09" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kartikchawla09&" alt="kartikchawla09" /></p>
