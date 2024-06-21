@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Kartik Chawla</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on [Coursely](https://github.com/KartikChawla09/Coursely-AdminDashboard)
+- 🔭 I’m currently working on [PlayChess](https://github.com/KartikChawla09/Chess)
 
 - 🌱 I’m currently learning **MERN**
 
-- 👯 I’m looking to collaborate on **Frontend React Projects**
+- 👯 I’m looking to collaborate on **FullStack React Projects**
 
 - 👨‍💻 All of my projects are available at [https://kartikchawla.netlify.app/](https://kartikchawla.netlify.app/)
 
 - 💬 Ask me about **React**
 
-- 📫 How to reach me **kartikchawlarock@gmail.com**
+- 📫 How to reach me **kartikchawlatech@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
